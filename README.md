@@ -9,7 +9,7 @@ I am Foad, and welcome to my GitHub profile.
 
 🚧 I’m currently working on [pyremote.com](https://www.pyremote.com).
 
-📫 You can reach me by [email](mailto:foad@foadmoha.com), and I am on [twitter](https://twitter.com/FoadFm).
+📫 You can reach me by [email](mailto:foad@foadmoha.com), and on [twitter](https://twitter.com/FoadFm).
 
 🇸🇪 I’m based in Gothenburg, Sweden.
 
