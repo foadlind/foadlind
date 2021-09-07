@@ -7,7 +7,7 @@ I am Foad, and welcome to my GitHub profile.
 
 🖍 I teach Git over at [practicalgit.com](https://practicalgit.com).
 
-🚧 I’m currently working on [pyremote.com](https://pyremote.com).
+🚧 I’m currently working on [pyremote.com](https://www.pyremote.com).
 
 📫 You can reach me by [email](mailto:foad@foadmoha.com), and I am on [twitter](https://twitter.com/FoadFm).
 
