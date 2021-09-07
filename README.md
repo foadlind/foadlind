@@ -1,16 +1,16 @@
 ### Hi there 👋
+I am Foad, and welcome to my GitHub profile.
 
-<!--
-**foadmoha/foadmoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 I’m a solo consultant working with Python and Django.
 
-Here are some ideas to get you started:
+📝 I write about Django development on [foadmoha.com](https://foadmoha.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖍 I teach Git over at [practicalgit.com](https://practicalgit.com).
+
+🚧 I’m currently working on [pyremote.com](https://pyremote.com).
+
+📫 You can reach me by [email](mailto:foad@foadmoha.com), and I am on [twitter](https://twitter.com/FoadFm).
+
+🇸🇪 I’m based in Gothenburg, Sweden.
+
+### ✨ I am currently available for consulting work. ✨
