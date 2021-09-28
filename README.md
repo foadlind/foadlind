@@ -3,13 +3,13 @@ I am Foad, and welcome to my GitHub profile.
 
 🧑‍💻 I’m a solo consultant working with Python and Django.
 
-📝 I write about Django development on [foadmoha.com](https://foadmoha.com).
+📝 I write about Django development on [foadlind.com](https://www.foadlind.com).
 
 🖍 I teach Git over at [practicalgit.com](https://practicalgit.com).
 
 🚧 I’m currently working on [pyremote.com](https://www.pyremote.com).
 
-📫 You can reach me by [email](mailto:foad@foadmoha.com), and on [twitter](https://twitter.com/FoadFm).
+📫 You can reach me by [email](mailto:me@foadlind.com), and on [twitter](https://twitter.com/FoadFm).
 
 🇸🇪 I’m based in Gothenburg, Sweden.
 
