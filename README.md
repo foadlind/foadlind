@@ -9,4 +9,4 @@ I am Foad, and welcome to my GitHub profile.
 
 📫 You can reach me by [email](mailto:me@foadlind.com), and on [twitter](https://twitter.com/FoadFm).
 
-🇸🇪 I’m based in Gothenburg, Sweden.
+🇸🇪 I’m based in Karlstad, Sweden.
