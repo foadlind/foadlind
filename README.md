@@ -9,4 +9,4 @@ I am Foad, and welcome to my GitHub profile.
 
 🚧 I’m currently working on [pyremote.com](https://www.pyremote.com).
 
-🇸🇪 I’m based in Gothenburg, Sweden.
+🇸🇪 I’m based in Karlstad, Sweden.
